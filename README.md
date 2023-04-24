@@ -22,7 +22,7 @@ Open the `customer_churn_xgboost.ipynb` file in your browser and run the code.
 The Jupyter Notebook contains step-by-step instructions on how to preprocess the data, train and test the XGBoost model, and evaluate the model's performance.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/abelkwong/xgboost_customer_churn/blob/main/LICENSE).
 
 ## Acknowledgements
-The Telco Customer Churn dataset used in this project is provided by Kaggle. The code is adapted from the XGBoost documentation and the Predicting Customer Churn article by Jessica Sun.
+The [Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn) used in this project is provided by Kaggle. The code is adapted from the [XGBoost](https://xgboost.readthedocs.io/en/latest/) documentation.
